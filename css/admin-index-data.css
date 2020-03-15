@@ -1,0 +1,40 @@
+/* CSS Document */
+
+#add-input{
+	width: 400px;
+	float: right;
+}
+.add-div{
+	padding: 0px;
+}
+#title-text{
+	font-size: 20px;
+}
+#content-div{
+	margin-top: 10px;
+}
+.block-div{
+	color: #FFFFFF;
+	background-color: #009BFF;
+	border-radius: 5px;
+	width: 200px;
+	height: 80px;
+	margin: 0px 20px;
+}
+.bloxk-text-1{
+	font-size: 20px;
+	margin: 10px 0px 5px 0px;
+}
+.bloxk-text-2{
+	font-size: 16px;
+	margin-top: 4px;
+	float: left;
+}
+.bloxk-text-3{
+	font-size: 20px;
+	float: left;
+}@media (max-width: 768px){
+	#input-div{
+		margin-top: 100px;
+	}
+}

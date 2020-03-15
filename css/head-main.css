@@ -1,0 +1,27 @@
+#logo{
+	height: 40px;
+}
+.navbar-brand{
+	padding: 0px;
+	float: left;
+}
+.nav{
+	float: right;
+}
+.nav-div{
+	padding-top: 8px;
+}
+.nav-a{
+	font-weight: bold;
+	color: #1B1B1B;
+}
+.nav>li>a:hover{
+	background-color: #FFFFFF;
+	color: #1B1B1B;
+	border-bottom-style: solid;
+	border-bottom-color: #009F3F;
+	border-width: 3px;
+}
+.nav-pills>li>a{
+	border-radius: 0px;;
+}

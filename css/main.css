@@ -1,0 +1,103 @@
+/* CSS Document */
+
+
+#show-img{
+	width: 100%;
+}
+.col-lg-7>p{
+	font-size: 45px;
+	font-weight: lighter;
+}
+#theme-text{
+	font-weight: inherit;
+}
+#content-div{
+	padding-top: 50px;
+}
+.btn-green {
+	background-color: #009F3F;
+	border-color: #009F3F;
+	color: #FFFFFF;
+}
+.btn-group-lg>.btn, .btn-lg{
+	border-radius: 50px;
+	width: 140px;
+}
+.btn-xbk{
+	color: #009F3F;
+	border-width: 3px;
+	border-radius: 50px;
+	border-style: solid;
+	border-color: #009F3F;
+	margin-left: 10px;
+}
+.btn-green:hover{
+	color: #009F3F;
+	background-color: #FFFFFF;
+	border-width: 3px;
+	border-radius: 50px;
+	border-style: solid;
+	border-color: #009F3F;
+}
+.btn-xbk:hover{
+	color: #FFFFFF;
+	background-color: #009F3F;
+}
+#support-div>p{
+	margin-top: 25px;
+	font-size: 30px;
+}
+#support-div>div>img{
+	width: 50px;
+	margin: 25px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px 0 rgba(0,0,0,0.43);
+}
+#support-div>div>img:hover{
+	box-shadow: none;
+}
+#support-text{
+	font-size: 20px!important;
+	font-weight: lighter;
+	margin-top: 0px!important;
+}
+#develop-title{
+	margin-bottom: 20px;
+	border-bottom-style: solid;
+	border-bottom-color: #009F3F;
+	border-width: 3px;
+	width: 120px;
+}
+#title-head{
+	font-size: 25px;
+	font-weight: bold;
+	color: #FF0004;
+	float: right;
+}
+.title-head-div{
+	padding-right: 0px;
+}
+#title{
+	font-size: 25px;
+	font-weight: bold;
+}
+#content{
+	font-size: 18px;
+}
+.contact-img{
+	height: 200px;
+	margin: 10px;
+}
+#foot-div{
+	margin-top: 50px;
+}
+#foot-div>p{
+	font-weight: lighter;
+}
+#contact-div{
+	margin-bottom: 20px;
+	border-bottom-style: solid;
+	border-bottom-color: #009F3F;
+	border-width: 3px;
+	width: 120px;
+}

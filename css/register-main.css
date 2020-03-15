@@ -1,0 +1,48 @@
+/* CSS Document */
+
+
+#login-btn{
+	width: 100%;
+	margin-bottom: 10px;
+}
+#content-div{
+	margin-top: 80px;
+}
+#login-title{
+	padding: 20px 0px;
+	margin-bottom: 0px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.input-div{
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+#forget_password{
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+#register{
+	float: right;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+#content-text-1{
+	font-size: 30px;
+	font-weight: bold;
+}
+#content-text-2{
+	font-size: 28px;
+	font-weight: lighter;
+}
+#input-div{
+	margin: 20px;
+	box-shadow: 0 0 10px 0 rgba(0,0,0,0.43);
+	border-radius: 10px;
+}
+@media (max-width: 768px){
+	#input-div{
+		margin-top: 6px;
+	}
+}
