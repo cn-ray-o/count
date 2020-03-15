@@ -24,7 +24,7 @@
 		<?php setcookie("command","register") ?>
 		<div class="row" id="content-div">
 			<div class="col-lg-6 col-md-6 hidden-sm hidden-xs">
-				<p id="content-text-1">为了无法统计的价值！！</p>
+				<p id="content-text-1">为了无法统计的价值！！?</p>
 				<p id="content-text-2">弹性部署，云端管理<br>打造最具创造力的统计系统！</p>
 			</div>
 			<div class="col-lg-5 col-lg-offset-1 col-md-5" id="input-div" align="center">
